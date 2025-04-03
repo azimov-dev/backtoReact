@@ -10,6 +10,8 @@ a:hover {
 body {
   margin: 0;
   place-items: center;
+  background-color: #222;
+  color: white;
 }
 
 ul,
